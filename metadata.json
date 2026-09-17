@@ -1,0 +1,7 @@
+{
+  "name": "AI Market Intelligence",
+  "description": "Professional market intelligence terminal for traders, analyzing real-time financial news, currency strength meters, and macro asset biases.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
